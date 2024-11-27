@@ -6,5 +6,6 @@ Steps on how to create GitHub page
   2. Clone the repository
   3. Change the repository visibility to public
   4. Go to https://<github_classroom_name>.github.io/<repository_name>/
-  What are your key takeaways from this exercise? I learned how to create webpage using HTML and CSS. I also learn how to create layout using flexboxes.
+  
+What are your key takeaways from this exercise? I learned how to create webpage using HTML and CSS. I also learn how to create layout using flexboxes.
 
