@@ -1,6 +1,7 @@
-Full Name: Kimberly M. Bandillo 
+Full Name: Kimberly M. Bandillo
 Degree Program: BS Computer Science 
 Live Website link: https://cmsc100-laboratory.github.io/exercise-2-html-and-css-kmbandillo/ 
+
 Steps on how to create GitHub page
   1. Accept the github assignment
   2. Clone the repository
