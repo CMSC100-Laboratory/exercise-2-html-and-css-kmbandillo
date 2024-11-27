@@ -1,4 +1,5 @@
 Full Name: Kimberly M. Bandillo
+
 Degree Program: BS Computer Science 
 Live Website link: https://cmsc100-laboratory.github.io/exercise-2-html-and-css-kmbandillo/ 
 
